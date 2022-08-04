@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(to bottom right, rgba(255, 166, 0, 0.329), pink);
+}
+/*
+body {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+}*/
+div8 {
+  width: 100px;
+  height: 100px;
+  background: red;
+  transition: width 2s;
+}
